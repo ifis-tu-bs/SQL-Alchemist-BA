@@ -1,3 +1,7 @@
 #SQL-Alchimist-BA
 
-Das hier ist ein Text.
+Sourceverwaltung über git.
+
+Buildtool sbt (über activator).
+
+Config über ConfigFactory von Typesafe.
